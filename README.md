@@ -1,4 +1,4 @@
-# Creating-and-launching-an-Amazon-EC2-Elastic-Compute-Cloud-
+# Creating-and-launching-an-Amazon-EC2-Elastic-Compute-Cloud and also Connecting to an Amazon EC2 instance
 Creating and launching an Amazon EC2 (Elastic Compute Cloud) and how to connect to amazon EC2 instance
 ### Step 1: Sign in to the AWS Management Console 
 Go to the AWS Management Console at [https://console.aws.amazon.com/](https://console.aws.amazon.com/).
